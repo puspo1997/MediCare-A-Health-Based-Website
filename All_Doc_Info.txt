@@ -1,0 +1,264 @@
+<tr>
+						<th>Name</th>
+						<th>Degree</th>
+						<th>Chamber</th>
+						<th>Time</th>
+						<th>Days</th>
+						<th>Fees</th>
+						<th>Contact</th>
+					</tr>
+					<tr>
+						<td>Tasmia Akter Jerin </td>
+						<td>MBBS,FCPS</td>
+						<td>Kajolshah</td>
+						<td>4.00-7.00</td>
+						<td>Sun-Mon</td>
+						<td>700</td>
+						<td>01717014948 </td>
+					</tr>
+					<tr>
+						<td>Ziaur Rahman </td>
+						<td>MBBS,BCS</td>
+						<td>34/B,Stadium Market</td>
+						<td>5.00-9.00</td>
+						<td>Sun-Wed</td>
+						<td>700</td>
+						<td>01712246504</td>
+					</tr>
+					<tr>
+						<td>Mortoza Ali </td>
+						<td>MBBS,BCS</td>
+						<td>Al-Amin Diagnostic</td>
+						<td>7.00-9.00</td>
+						<td>Sat-Wed</td>
+						<td>500</td>
+						<td>01747704821</td>
+					</tr>
+					<tr>
+						<td>Partha Sarothi Roy</td>
+						<td>MBBS,BCS,CCD</td>
+						<td>34/B,Stadium Market</td>
+						<td>5.00-9.00</td>
+						<td>Fri-Sun</td>
+						<td>700</td>
+						<td>01772109212 </td>
+					</tr>
+					<tr>
+						<td>Saiful Islam</td>
+						<td>MBBS,Md</td>
+						<td>Popular Diagnostic</td>
+						<td>4.00-6.00</td>
+						<td>Sat-Wed</td>
+						<td>500</td>
+						<td>01772109212</td>
+					</tr>
+					<tr>
+						<td>Abdul Latif </td>
+						<td>MBBS,MS</td>
+						<td>Stadium Market</td>
+						<td>4.00-7.00</td>
+						<td>Sat-Thru</td>
+						<td>700</td>
+						<td>01617414086</td>
+					</tr>
+					<tr>
+						<td>Mosih Uddin </td>
+						<td>MBBS,FCPS</td>
+						<td>Kajolshah</td>
+						<td>5.00-7.00</td>
+						<td>Sun-Wed</td>
+						<td>600</td>
+						<td>01717929977 </td>
+					</tr>
+					<tr>
+						<td>Borhan Uddin</td>
+						<td>MBBS,BCS</td>
+						<td>IBN Sina</td>
+						<td>7.00-9.00</td>
+						<td>Sat-Thru</td>
+						<td>600</td>
+						<td>01988953651 </td>
+					</tr>
+					<tr>
+						<td>Saymol Chandra</td>
+						<td>MBBS,BCS</td>
+						<td>31/B,Stadium Market</td>
+						<td>5.00-9.00</td>
+						<td>Sat-Thru</td>
+						<td>700</td>
+						<td>01717929977</td>
+					</tr>
+					<tr>
+						<td>Saiful Alam </td>
+						<td>MBBS,BCS</td>
+						<td>IBN Sina</td>
+						<td>7.00-10.00</td>
+						<td>Sun-Wed</td>
+						<td>500</td>
+						<td>01754673017 </td>
+					</tr>
+					<tr>
+						<td>Nazmul Alam</td>
+						<td>MBBS,FCS,FCPS</td>
+						<td>3rd Floor,Stadium Market</td>
+						<td>5.00-8.00</td>
+						<td>Sat-Sun</td>
+						<td>700</td>
+						<td>01708185429</td>
+					</tr><tr>
+						<td>M.A.Gaffar </td>
+						<td>MBBS,MS</td>
+						<td>IBN Sina</td>
+						<td>7.00-9.00</td>
+						<td>Sat-Sun</td>
+						<td>700</td>
+						<td>01760080023 </td>
+					</tr><tr>
+						<td>K.M.Muiz</td>
+						<td>MBBS,FCPS</td>
+						<td>Ragib Rabeya</td>
+						<td>6.00-9.00</td>
+						<td>Sat-Thru</td>
+						<td>500</td>
+						<td>01732182679 </td>
+					</tr><tr>
+						<td>Musarrof Hussein</td>
+						<td>MBBS,MS</td>
+						<td>Ragib Rabeya</td>
+						<td>6.00-9.00</td>
+						<td>Sat-Thru</td>
+						<td>500</td>
+						<td>01711376225 </td>
+					</tr><tr>
+						<td>Forid Ahmed</td>
+						<td>MBBS,MS</td>
+						<td>Ragib Rabeya</td>
+						<td>6.00-9.00</td>
+						<td>Sat-Wed</td>
+						<td>700</td>
+						<td>01718946726 </td>
+					</tr><tr>
+						<td>Lota Mozumdar</td>
+						<td>MBBS,D-Ortho</td>
+						<td>Ragib Rabeya</td>
+						<td>6.00-9.00</td>
+						<td>Sat-Thru</td>
+						<td>500</td>
+						<td>01718946726 </td>
+					</tr><tr>
+						<td>MUHAMMAD HEZBULLAH</td>
+						<td>MBBS, BCS, FCPS (Medicine)</td>
+						<td>Popular Diagnostic Center</td>
+						<td>6.00-9.00</td>
+						<td>Sat-Thru</td>
+						<td>700</td>
+						<td>01714726428 </td>
+					</tr><tr>
+						<td>RANJON ROY</td>
+						<td>MBBS, FCPS (Medicine)</td>
+						<td>Kajolshah</td>
+						<td>5.00-8.00</td>
+						<td>Sat-Wed</td>
+						<td>600</td>
+						<td>01708185429</td>
+					</tr><tr>
+						<td> GOUTAM TALUKDER</td>
+						<td> MBBS, BCS, FCPS (Medicine)</td>
+						<td>Popular Diagnostic Center</td>
+						<td>4.00-10.00</td>
+						<td>Sat-Wed/td>
+						<td>700</td>
+						<td>01779760079 </td>
+					</tr><tr>
+						<td>RANJON ROY</td>
+						<td> MBBS,BCS,FCPS (Medicine)</td>
+						<td>Popular Diagnostic Center</td>
+						<td>4.00-8.00</td>
+						<td>Sat-Thru</td>
+						<td>600</td>
+						<td>01784829548 </td>
+					</tr>
+				</table>
+
+
+
+
+
+
+<!-- now start-->
+		<div class="wrapper">
+			<div class="sidebar">
+				<h2>Admin</h2>
+				<ul>
+		 			<li><a href="admin_bloodbank.php">Blood Bank</a></li>
+		 			<li><a href="admin_doctor.php">Doctor</a></li>
+		 			<li><a href="admin_diagnostic.php">Diagnostic </a></li>
+					<li><a href="admin_ambulance.php">Ambulance </a></li>
+					
+					
+					
+		 		</ul>
+			</div>
+	<div class="aboutusbody">
+				<div class="tablediv">
+				<table  >
+					<style>
+						table, th, td {
+						border: 2px solid gray;
+						border-collapse: collapse;
+						}
+						th, td {
+						padding: 5px;
+						text-align: center;
+						}
+						table {
+							border-spacing: 15px;
+							width:100%;
+						}
+					</style>
+					<tr><th>
+					<div class="bb">
+			</div>
+			<form method="post" action="bloodbank.php">
+				
+
+				<div class="input-group">
+					<label>Name</label>
+					<input type="text" name="Name">
+				</div>
+				
+				<div class="input-group">
+					<label>Age</label>
+					<input type="text" name="Age">
+				</div>	
+					
+				<div class="input-group">
+					<label>Blood Group</label>
+					<input type="text" name="BloodGroup">
+				</div>	
+				
+				<div class="input-group">
+					<label>Contact</label>
+					<input type="text" name="Contact">
+				</div>	
+			
+
+				<div class="input-group">
+					<button type="submit" name="register" >Register</button>
+
+				</div>		
+
+			</form></th>
+
+						
+			</table>
+
+				</div>
+			
+			
+			</div>
+			
+              </div>
+			  
+			  
+		</div>
